@@ -1,0 +1,19 @@
+{
+  "name": "Bệnh viện đa khoa Quốc Oai",
+  "address": {
+    "city": "Thị trấn Quốc Oai, thành phố Hà Nội",
+    "country": "Việt Nam",
+    "zipcode": "100000"
+  },
+
+  "geo": {
+    "lat": "21.0156617",
+    "lng": "105.8270116"
+  },
+
+  "avatar": " ",
+  "avatarBackground": "https://orig00.deviantart.net/dcd7/f/2014/027/2/0/mountain_background_by_pukahuna-d73zlo5.png",
+  "tels": { "id": 1, "name": "Hotline", "number": "0966471616" },
+  "emails": { "id": 1, "name": "Email", "email": "bvdongda@gmail.com" },
+  "ggs": { "id": 1, "name": "Map", "location": "Bản đồ trực tuyến" }
+}
